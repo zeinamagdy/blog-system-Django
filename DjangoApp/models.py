@@ -53,8 +53,8 @@ class banWords(models.Model):
 	word=models.CharField(max_length=100)
 	
 #admin.site.register(UserProfile)
-admin.site.register(Article)
-admin.site.register(Comment)
-admin.site.register(Tag)
-admin.site.register(emotion)
-admin.site.register(banWords)
+#admin.site.register(Article)
+#admin.site.register(Comment)
+#admin.site.register(Tag)
+#admin.site.register(emotion)
+#admin.site.register(banWords)
